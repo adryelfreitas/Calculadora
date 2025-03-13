@@ -13,7 +13,7 @@ hmtl {
 
 body {
   align-items: center;
-  background: linear-gradient(320deg, #000000, #2e3530, #c9bbc8);
+  background-color: rgba(0, 0, 0, 0.904);
   display: flex;
   font-family: 'dosis', sans-serif;
   font-display: swap;
